@@ -13,7 +13,7 @@ Enhancing security measures to safeguard financial assets.
 ## How is it used?
 ### The solution involves
   (1) Preprocessing the data.
-  (2) Utilizing machine supervised learning algorithms to generate models.
+  (2) Utilizing supervised machine learning algorithms to generate models.
   (3) Evaluation of the models using Accuracy, ROC-Curve and F1-Score.
 ### Users
 Credit card companies and financial institutions.
