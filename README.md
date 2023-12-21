@@ -6,16 +6,13 @@ Detect fraudulent credit card transactions using supervised machine learning alg
 
 ## Background
 ### Importance 
-Identification of fraudulent credit card transactions is crucial to 
-  prevent customers from unauthorized charges.
-  prevent financial loss of credit card companies.
-  maintain trust between credit card companies and their customers.
+Identification of fraudulent credit card transactions is crucial to prevent customers from unauthorized charges, prevent financial loss of credit card companies, maintain trust between credit card companies and their customers.
 ### Motivation
 Enhancing security measures to safeguard financial assets.
 
 ## How is it used?
 ### The solution involves
-  Preprocessing the data
+  Preprocessing the data.
   Utilizing machine supervised learning algorithms to generate models.
   Evaluation of the models using Accuracy, ROC-Curve and F1-Score.
 ### Users
@@ -29,10 +26,11 @@ Real-time monitoring, accuracy, and robustness against evolving fraudulent techn
   Contains numerical features like 'Time', 'Amount', and 'Class' (response variable: value 1 in case of fraud and 0 otherwise) labels.
 ### AI Techniques
   Logistic regression, Support Vector Machine, Random Forest and Gradient Boosting.
-  Process steps: Data import, exploration, manipulation, splitting, model training, evaluation and comparison.
+  #### Process steps
+  Data import, exploration, manipulation, splitting, model training, evaluation and comparison.
 
 ## Challenges
-Limitations
+Limitations:
   Inability to access original features due to confidentiality.
   Ethical considerations: Privacy concerns with financial data usage and model biases.
 
