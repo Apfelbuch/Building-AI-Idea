@@ -14,12 +14,14 @@ Identification of fraudulent credit card transactions is crucial to
 Enhancing security measures to safeguard financial assets.
 
 ## How is it used?
-The solution involves:
+### The solution involves
   Preprocessing the data
   Utilizing machine supervised learning algorithms to generate models.
   Evaluation of the models using Accuracy, ROC-Curve and F1-Score.
-Users: Credit card companies and financial institutions.
-Needs: Real-time monitoring, accuracy, and robustness against evolving fraudulent techniques.
+### Users
+Credit card companies and financial institutions.
+### Needs
+Real-time monitoring, accuracy, and robustness against evolving fraudulent techniques.
 
 ## Data sources and AI methods
 ### Data Source
@@ -35,7 +37,7 @@ Limitations
   Ethical considerations: Privacy concerns with financial data usage and model biases.
 
 ## What next?
-Future enhancements
+### Future enhancements
   Collaboration with financial regulators for standardizing fraud detection protocols.
   Continuous learning and adaptation to new fraud patterns.
 To accomplish this, collaboration with domain experts and access to real-time data streams would be invaluable.
