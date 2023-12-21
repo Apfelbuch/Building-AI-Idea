@@ -5,11 +5,11 @@ Building AI course project
 Detect fraudulent credit card transactions using supervised machine learning algorithms such as logistic regression, employing a dataset containing anonymized credit card transactions labeled as fraudulent or genuine.
 
 ## Background
-Importance: Identification of fraudulent credit card transactions is crucial to 
+### Importance: Identification of fraudulent credit card transactions is crucial to 
   prevent customers from unauthorized charges.
   prevent financial loss of credit card companies.
   maintain trust between credit card companies and their customers.
-Motivation: Enhancing security measures to safeguard financial assets.
+### Motivation: Enhancing security measures to safeguard financial assets.
 
 ## How is it used?
 The solution involves:
@@ -20,10 +20,10 @@ Users: Credit card companies and financial institutions.
 Needs: Real-time monitoring, accuracy, and robustness against evolving fraudulent techniques.
 
 ## Data sources and AI methods
-Data Source
+### Data Source
   Kaggle dataset with anonymized credit card transactions.
   Contains numerical features like 'Time', 'Amount', and 'Class' (response variable: value 1 in case of fraud and 0 otherwise) labels.
-AI Techniques
+### AI Techniques
   Logistic regression, Support Vector Machine, Random Forest and Gradient Boosting.
   Process steps: Data import, exploration, manipulation, splitting, model training, evaluation and comparison.
 
