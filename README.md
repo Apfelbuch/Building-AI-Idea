@@ -5,11 +5,13 @@ Building AI course project
 Detect fraudulent credit card transactions using supervised machine learning algorithms such as logistic regression, employing a dataset containing anonymized credit card transactions labeled as fraudulent or genuine.
 
 ## Background
-### Importance: Identification of fraudulent credit card transactions is crucial to 
+### Importance 
+Identification of fraudulent credit card transactions is crucial to 
   prevent customers from unauthorized charges.
   prevent financial loss of credit card companies.
   maintain trust between credit card companies and their customers.
-### Motivation: Enhancing security measures to safeguard financial assets.
+### Motivation
+Enhancing security measures to safeguard financial assets.
 
 ## How is it used?
 The solution involves:
